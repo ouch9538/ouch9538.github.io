@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "Main",
+            "address": "https://anisette.kythera.cc"
+        }
+    ]
+}
